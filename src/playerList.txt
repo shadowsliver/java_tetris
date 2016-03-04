@@ -1,0 +1,12 @@
+aaaaa,0,3
+Bart,9010,900
+Bart,9010,900
+qsqqq,0,2
+azerty,0,2
+JeanBoB,0,3
+aqaf,0,2
+gsd,0,23
+a,0,3
+z,0,4
+ss,0,4
+m,90,115

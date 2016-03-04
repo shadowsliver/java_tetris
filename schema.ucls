@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <package id="1" language="java" name="view" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/view" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="254" y="37"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="2" language="java" name="domain.model.ResumeButtonListener" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/ResumeButtonListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="308" x="272" y="706"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="3" language="java" name="domain.model.IObserver" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/IObserver.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="103" x="4179" y="1758"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="4" language="java" name="domain.db.IDatabase" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/db/IDatabase.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="146" x="704" y="1758"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="domain.model.TetrisKeyListener" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/TetrisKeyListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="166" x="41" y="320"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="domain.db.DatabaseTextFile" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/db/DatabaseTextFile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="198" x="466" y="1313"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="controller.IController" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/controller/IController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="183" x="933" y="1313"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="domain.model.FigInput" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/FigInput.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="87" x="609" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="domain.model.PropertiesReader" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/PropertiesReader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="149" x="911" y="1758"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="domain.model.LPieceReverse" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/LPieceReverse.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="317" x="1198" y="1758"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="domain.model.StartButtonListener" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/StartButtonListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="292" x="620" y="706"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="domain.model.ZedPiece" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/ZedPiece.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="289" x="1555" y="1758"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="domain.model.GameTimer" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/GameTimer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="187" x="3952" y="1313"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="domain.model.XMLReader" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/XMLReader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="129" x="951" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="15" language="java" name="domain.model.IObservable" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/IObservable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="187" x="3952" y="1758"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="16" language="java" name="domain.model.DatabaseChoiceListener" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/DatabaseChoiceListener.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="260" x="973" y="706"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="domain.model.PropertiesReaderLogin" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/PropertiesReaderLogin.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="156" x="871" y="1969"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="domain.model.Block" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/Block.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="258" x="2387" y="1969"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="domain.model.LinePiece" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/LinePiece.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="290" x="1884" y="1758"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="domain.model.AFigure" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/AFigure.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="282" x="3105" y="1313"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="view.ChronometerPanel" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/view/ChronometerPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="170" x="62" y="706"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="22" language="java" name="domain.model.IFacade" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/IFacade.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="183" x="2154" y="1313"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="23" language="java" name="domain.model.ZedPieceReverse" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/ZedPieceReverse.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="330" x="2214" y="1758"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="view.GameMainView" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/view/GameMainView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="131" x="2063" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="view.GamePanel" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/view/GamePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="260" x="2106" y="320"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="domain.db.DatabasePostgreSQL" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/db/DatabasePostgreSQL.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="189" x="704" y="1313"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="launcher.Launcher2" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/launcher/Launcher2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="1336" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="view.GameInfoPanel" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/view/GameInfoPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="178" x="1992" y="706"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="29" language="java" name="launcher" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/launcher" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="1705" y="37"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <package id="30" language="java" name="controller" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/controller" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="2534" y="37"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="31" language="java" name="domain.model.PieceFactory" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/PieceFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="276" x="3615" y="1313"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="launcher.Launcher" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/launcher/Launcher.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="2976" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="domain.model.TPiece" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/TPiece.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="276" x="2584" y="1758"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="domain.model.StopButtonListener" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/StopButtonListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="291" x="1273" y="706"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="domain.model.Punt" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/Punt.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="138" x="2387" y="2360"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="view.FieldPanel" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/view/FieldPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="236" x="2210" y="706"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="domain.model.Field" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/Field.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="144" x="3638" y="2360"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="controller.ControllerTetris" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/controller/ControllerTetris.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="348" x="1604" y="706"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="domain.model.LPiece" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/LPiece.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="276" x="2900" y="1758"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="40" language="java" name="domain.db" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/db" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="3431" y="37"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="41" language="java" name="domain.model.PlayingFieldCalculator" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/PlayingFieldCalculator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="149" x="3449" y="2360"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="42" language="java" name="domain.model" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="104" x="3875" y="37"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="43" language="java" name="domain.model.BlockPiece" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/BlockPiece.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="296" x="3216" y="1758"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="domain.model.Player" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="127" x="3427" y="1313"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="domain.model.TetrisFacade" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/domain/model/TetrisFacade.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="567" width="338" x="3575" y="706"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="view.GameControlPanel" project="OOO20132014_Michaux_Molehant" 
+    file="/OOO20132014_Michaux_Molehant/src/view/GameControlPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="170" x="1992" y="549"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="47">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="48" name="b2"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="51" name="pfc"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="54" name="b3"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="57" name="b2"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="59">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="60">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="61" name="controller"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="64" name="b4"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="67" name="controller"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <bendpoint x="3563" y="1758"/>    
+    <bendpoint x="3563" y="1969"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="70" name="pfc"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="72">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="73" name="b1"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="75">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="76" name="b2"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="79" name="b2"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="81">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="82" name="b1"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="84">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <association id="85">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="86" name="b4"/>      
+      <multiplicity id="87" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="88">    
+    <bendpoint x="4190" y="320"/>    
+    <bendpoint x="4190" y="549"/>    
+    <bendpoint x="4190" y="706"/>    
+    <bendpoint x="4190" y="1313"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <association id="89">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="90" name="b3"/>      
+      <multiplicity id="91" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="92">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="93" name="gip"/>      
+      <multiplicity id="94" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="95">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="96" name="p"/>      
+      <multiplicity id="97" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="98">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="99" name="p"/>      
+      <multiplicity id="100" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="101">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="102" name="field"/>      
+      <multiplicity id="103" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="104">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <association id="105">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="106" name="tkl"/>      
+      <multiplicity id="107" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="108">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="109" name="b4"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="111">    
+    <bendpoint x="2192" y="549"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="112" name="fp"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="115" name="t"/>      
+      <multiplicity id="116" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="118" name="b3"/>      
+      <multiplicity id="119" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="120">    
+    <bendpoint x="1146" y="1313"/>    
+    <bendpoint x="1146" y="1758"/>    
+    <bendpoint x="1146" y="1969"/>    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="121" name="pfc"/>      
+      <multiplicity id="122" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="123">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="124" name="gcp"/>      
+      <multiplicity id="125" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="126">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="127" name="o"/>      
+      <multiplicity id="128" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="129">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="130" name="pos"/>      
+      <multiplicity id="131" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="132">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <association id="133">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="134" name="b2"/>      
+      <multiplicity id="135" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="136">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="137">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="138" name="b4"/>      
+      <multiplicity id="139" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="140">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="141" name="f"/>      
+      <multiplicity id="142" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="143">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="144" name="b3"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="146">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <association id="147">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="148" name="b1"/>      
+      <multiplicity id="149" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="150">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="151">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="152" name="b4"/>      
+      <multiplicity id="153" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="154">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="155" name="f"/>      
+      <multiplicity id="156" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="157">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="158" name="b2"/>      
+      <multiplicity id="159" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="160">    
+    <bendpoint x="3605" y="1758"/>    
+    <bendpoint x="3626" y="1969"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="161" name="field"/>      
+      <multiplicity id="162" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="163">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="164" name="b2"/>      
+      <multiplicity id="165" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="166">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="167" name="b4"/>      
+      <multiplicity id="168" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="169">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="170" name="o"/>      
+      <multiplicity id="171" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="172">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <association id="173">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="174" name="cp"/>      
+      <multiplicity id="175" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="176">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="177" name="b1"/>      
+      <multiplicity id="178" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="179">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="180">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="181" name="b4"/>      
+      <multiplicity id="182" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="183">    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="184" name="figures"/>      
+      <multiplicity id="185" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="186">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="187" name="b3"/>      
+      <multiplicity id="188" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="189">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <association id="190">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="191" name="gp"/>      
+      <multiplicity id="192" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="193">    
+    <bendpoint x="3921" y="1313"/>    
+    <bendpoint x="3921" y="1758"/>    
+    <bendpoint x="3921" y="1969"/>    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="194" name="field"/>      
+      <multiplicity id="195" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="196">    
+    <bendpoint x="4169" y="1313"/>    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="197" name="ob"/>      
+      <multiplicity id="198" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="199">    
+    <bendpoint x="880" y="1758"/>    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="200" name="p1"/>      
+      <multiplicity id="201" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="202">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="203">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="204" name="b3"/>      
+      <multiplicity id="205" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="206">    
+    <bendpoint x="942" y="320"/>    
+    <bendpoint x="942" y="549"/>    
+    <bendpoint x="942" y="706"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="207" name="controller"/>      
+      <multiplicity id="208" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="209">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="210">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="211" name="b1"/>      
+      <multiplicity id="212" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="213">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="214">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="215" name="cont"/>      
+      <multiplicity id="216" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="217">    
+    <bendpoint x="2367" y="1313"/>    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="218" name="db"/>      
+      <multiplicity id="219" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="220">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="221" name="controller"/>      
+      <multiplicity id="222" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="223">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="224" name="b1"/>      
+      <multiplicity id="225" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="226">    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="227" name="nextFigure"/>      
+      <multiplicity id="228" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="229">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="230" name="f"/>      
+      <multiplicity id="231" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="232">    
+    <bendpoint x="3542" y="1758"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="233" name="blocks"/>      
+      <multiplicity id="234" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="235">    
+    <bendpoint x="1167" y="1313"/>    
+    <bendpoint x="1167" y="1758"/>    
+    <bendpoint x="1167" y="1969"/>    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="236" name="field"/>      
+      <multiplicity id="237" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="238">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="239" name="controller"/>      
+      <multiplicity id="240" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="241">    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="242" name="player"/>      
+      <multiplicity id="243" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="44" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="244">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="245">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="246" name="b1"/>      
+      <multiplicity id="247" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="248">    
+    <bendpoint x="3626" y="1758"/>    
+    <bendpoint x="3605" y="1969"/>    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="249" name="pfc"/>      
+      <multiplicity id="250" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="251">    
+    <bendpoint x="3647" y="1758"/>    
+    <bendpoint x="3647" y="1969"/>    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="252" name="field"/>      
+      <multiplicity id="253" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="254">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="255" name="b3"/>      
+      <multiplicity id="256" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="257">    
+    <bendpoint x="31" y="549"/>    
+    <bendpoint x="31" y="706"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="258" name="c"/>      
+      <multiplicity id="259" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="260">    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="261" name="pf"/>      
+      <multiplicity id="262" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="263">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="264" name="observer"/>      
+      <multiplicity id="265" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="266">    
+    <bendpoint x="3584" y="1313"/>    
+    <bendpoint x="3584" y="1758"/>    
+    <bendpoint x="3584" y="1969"/>    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="267" name="pfc"/>      
+      <multiplicity id="268" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="269">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="270" name="controller"/>      
+      <multiplicity id="271" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

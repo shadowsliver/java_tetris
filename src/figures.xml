@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<figures>
+	<figure NAME="LinePiece">
+		<block1x>3</block1x>
+		<block1y>0</block1y>
+		<block2x>4</block2x>
+		<block2y>0</block2y>
+		<block3x>5</block3x>
+		<block3y>0</block3y>
+		<block4x>6</block4x>
+		<block4y>0</block4y>
+		<color>#007eff</color>
+	</figure>
+	<figure NAME="ZedPiece">
+		<block1x>3</block1x>
+		<block1y>0</block1y>
+		<block2x>4</block2x>
+		<block2y>0</block2y>
+		<block3x>4</block3x>
+		<block3y>1</block3y>
+		<block4x>5</block4x>
+		<block4y>1</block4y>
+		<color>#05e835</color>
+	</figure>
+	<figure NAME="ZedPieceReverse">
+		<block1x>5</block1x>
+		<block1y>0</block1y>
+		<block2x>4</block2x>
+		<block2y>0</block2y>
+		<block3x>4</block3x>
+		<block3y>1</block3y>
+		<block4x>3</block4x>
+		<block4y>1</block4y>
+		<color>#960505</color>
+	</figure>
+	<figure NAME="LPiece">
+		<block1x>4</block1x>
+		<block1y>0</block1y>
+		<block2x>4</block2x>
+		<block2y>1</block2y>
+		<block3x>4</block3x>
+		<block3y>2</block3y>
+		<block4x>5</block4x>
+		<block4y>2</block4y>
+		<color>#d9a401</color>
+	</figure>
+	<figure NAME="LPieceReverse">
+		<block1x>5</block1x>
+		<block1y>0</block1y>
+		<block2x>5</block2x>
+		<block2y>1</block2y>
+		<block3x>5</block3x>
+		<block3y>2</block3y>
+		<block4x>4</block4x>
+		<block4y>2</block4y>
+		<color>#a6a6a6</color>
+	</figure>
+	<figure NAME="BlockPiece">
+		<block1x>4</block1x>
+		<block1y>0</block1y>
+		<block2x>5</block2x>
+		<block2y>0</block2y>
+		<block3x>4</block3x>
+		<block3y>1</block3y>
+		<block4x>5</block4x>
+		<block4y>1</block4y>
+		<color>#d0e805</color>
+	</figure>
+	<figure NAME="TPiece">
+		<block1x>4</block1x>
+		<block1y>0</block1y>
+		<block2x>3</block2x>
+		<block2y>1</block2y>
+		<block3x>4</block3x>
+		<block3y>1</block3y>
+		<block4x>5</block4x>
+		<block4y>1</block4y>
+		<color>#7e00ff</color>
+	</figure>
+</figures>

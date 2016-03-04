@@ -1,0 +1,39 @@
+package domain.model;
+
+import java.awt.Point;
+import java.util.ArrayList;
+
+public class BlockPiece extends AFigure{
+
+	private Block b1;
+	private Block b2;
+	private Block b3;
+	private Block b4;
+	
+	public BlockPiece(String colorHex, IObserver o, Field field, PlayingFieldCalculator pfc) {
+		super(colorHex, o, field, pfc);
+	}
+
+	@Override
+	public void changePos() {
+		//doet niets
+	}
+
+	@Override
+	public void generateBlocks() {
+		b1 = new Block(pfc.getHeightRow(), new Punt(4, 0), getColorHex(), field, pfc);
+		b2 = new Block(pfc.getHeightRow(), new Punt(5, 0), getColorHex(), field, pfc);
+		b3 = new Block(pfc.getHeightRow(), new Punt(4, 1), getColorHex(), field, pfc);
+		b4 = new Block(pfc.getHeightRow(), new Punt(5, 1), getColorHex(), field, pfc);
+		super.blocks.add(b1);
+		super.blocks.add(b2);
+		super.blocks.add(b3);
+		super.blocks.add(b4);
+	}
+
+	@Override
+	public void rotate() {
+		//nvt
+	}
+
+}

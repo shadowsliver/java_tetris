@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/r05g03/!svn/ver/38/OOO20132014_Michaux_Molehant/src/domain/model
+END
+DatabaseChoiceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/r05g03/!svn/ver/36/OOO20132014_Michaux_Molehant/src/domain/model/DatabaseChoiceListener.java
+END
+PlayingFieldCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/r05g03/!svn/ver/36/OOO20132014_Michaux_Molehant/src/domain/model/PlayingFieldCalculator.java
+END
+ZedPieceReverse.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/r05g03/!svn/ver/36/OOO20132014_Michaux_Molehant/src/domain/model/ZedPieceReverse.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/r05g03/!svn/ver/38/OOO20132014_Michaux_Molehant/src/domain/model/Block.java
+END
+IObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/r05g03/!svn/ver/20/OOO20132014_Michaux_Molehant/src/domain/model/IObservable.java
+END
+Punt.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/r05g03/!svn/ver/20/OOO20132014_Michaux_Molehant/src/domain/model/Punt.java
+END
+StopButtonListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/r05g03/!svn/ver/20/OOO20132014_Michaux_Molehant/src/domain/model/StopButtonListener.java
+END
+StartButtonListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/r05g03/!svn/ver/20/OOO20132014_Michaux_Molehant/src/domain/model/StartButtonListener.java
+END
+AFigure.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/r05g03/!svn/ver/36/OOO20132014_Michaux_Molehant/src/domain/model/AFigure.java
+END
+IFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/r05g03/!svn/ver/36/OOO20132014_Michaux_Molehant/src/domain/model/IFacade.java
+END
+LPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/r05g03/!svn/ver/36/OOO20132014_Michaux_Molehant/src/domain/model/LPiece.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/r05g03/!svn/ver/32/OOO20132014_Michaux_Molehant/src/domain/model/Player.java
+END
+BlockPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/r05g03/!svn/ver/36/OOO20132014_Michaux_Molehant/src/domain/model/BlockPiece.java
+END
+LPieceReverse.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/r05g03/!svn/ver/36/OOO20132014_Michaux_Molehant/src/domain/model/LPieceReverse.java
+END
+IObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/r05g03/!svn/ver/20/OOO20132014_Michaux_Molehant/src/domain/model/IObserver.java
+END
+PieceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/r05g03/!svn/ver/36/OOO20132014_Michaux_Molehant/src/domain/model/PieceFactory.java
+END
+TPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/r05g03/!svn/ver/36/OOO20132014_Michaux_Molehant/src/domain/model/TPiece.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/r05g03/!svn/ver/20/OOO20132014_Michaux_Molehant/src/domain/model/Field.java
+END
+TetrisKeyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/r05g03/!svn/ver/38/OOO20132014_Michaux_Molehant/src/domain/model/TetrisKeyListener.java
+END
+LinePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/r05g03/!svn/ver/36/OOO20132014_Michaux_Molehant/src/domain/model/LinePiece.java
+END
+PropertiesReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/r05g03/!svn/ver/30/OOO20132014_Michaux_Molehant/src/domain/model/PropertiesReader.java
+END
+ZedPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/r05g03/!svn/ver/36/OOO20132014_Michaux_Molehant/src/domain/model/ZedPiece.java
+END
+PropertiesReaderLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/r05g03/!svn/ver/30/OOO20132014_Michaux_Molehant/src/domain/model/PropertiesReaderLogin.java
+END
+GameTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/r05g03/!svn/ver/20/OOO20132014_Michaux_Molehant/src/domain/model/GameTimer.java
+END
+TetrisFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/r05g03/!svn/ver/38/OOO20132014_Michaux_Molehant/src/domain/model/TetrisFacade.java
+END
+ResumeButtonListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/r05g03/!svn/ver/20/OOO20132014_Michaux_Molehant/src/domain/model/ResumeButtonListener.java
+END

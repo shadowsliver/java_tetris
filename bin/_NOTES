@@ -1,0 +1,20 @@
+- Relative Field
+ -> Adjust Frame size
+ -> X = width / 10
+ -> Y = Width * 2 / 20
+ => SizeCalculator Klasse
+ => Code van 17 regels naar 20
+ => Code 40px naar getColomWidth
+ => Field != max height
+ => Refresh sizeCalculator klasse on graphics
+ 
+- Database
+	-> db.properties file voor login ------------------------ done
+  
+ OPTIONEEL:
+ 
+ - Game Art
+ - Options menu: ZQSD of pijltjes
+ - Options menu: Database type
+ - 
+ 
